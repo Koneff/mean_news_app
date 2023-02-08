@@ -1,7 +1,6 @@
 {
   "name": "mean-course",
   "version": "0.0.0",
-
   "private": true,
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -10,6 +9,7 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.8.0",
     "mongoose-unique-validator": "^3.1.0",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "nsfwjs": "^2.4.2"
   }
 }
